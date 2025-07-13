@@ -27,7 +27,7 @@ This project is being built for the enjoyment of the community, not for profit. 
 
 ## Documentation
 
-- [Mod Design Document](documentation/TheWilds_Mod_Design_Document.md)
+- [Mod Design Document](Documentation/TheWilds_Mod_Design_Document.md)
 
 ## Contributing
 
