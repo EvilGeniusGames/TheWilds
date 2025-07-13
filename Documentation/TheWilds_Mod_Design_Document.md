@@ -92,6 +92,10 @@ This project is being built for the enjoyment of the community, not for profit. 
 - [ ] Defensive Drone: new drone type that flies a configurable patrol route and engages hostile creatures during waves or proximity breaches
 - [ ] Train Turret Car: mobile rail-based turret platform for perimeter defense or route protection
 - [ ] Defensive Vehicles: mobile, ground-based turret platforms that patrol set paths or react to threats dynamically
+- [ ] Turrets require ammunition produced by the player/factory and delivered via standard conveyor logistics
+  - Ammo types could include ballistic rounds, energy cells, explosive shells, etc.
+  - Encourages integration of turret supply into factory design and power balance
+  - Running out of ammo during an attack creates natural pressure and urgency
 
 ---
 
