@@ -1,6 +1,6 @@
 # The Wilds: Satisfactory
 
-![The Wilds: Satisfactory Logo](images/TheWilds.png)
+![The Wilds: Satisfactory Logo](Images/TheWilds.png)
 
 **The Wilds: Satisfactory** is a gameplay overhaul mod for Satisfactory focused on transforming the peaceful factory sim into a hostile, combat-driven survival experience. Players will face escalating waves of hostile creatures, defend their bases with automated weaponry, and adapt to an environment that actively pushes back.
 
