@@ -43,10 +43,10 @@ This project is being built for the enjoyment of the community, not for profit. 
 ## Key Features
 
 ### 1. **Creature Expansion**
-- [x] Increased spawn rates
-- [x] Larger and more diverse enemy types
+- [ ] Increased spawn rates
+- [ ] Larger and more diverse enemy types
 - [ ] Replacement or augmentation of existing Satisfactory creatures with enhanced models and AI
-- [ ] Improved creature intelligence: dynamic pathing, coordinated attacks, threat prioritization
+- [ ] Improved creature intelligence: dynamic pathing, coordinated attacks, threat prioritization, Fixed pathing for events.
 - [ ] Smart respawn system based on player expansion and wave cycle logic
 - [ ] Biome-specific variants of creatures (desert, forest, swamp, etc.)
 - [ ] Nest mechanics with boss-tier enemies originating from central map regions
@@ -185,3 +185,13 @@ This project is being built for the enjoyment of the community, not for profit. 
 - [Satisfactory Modding Docs](https://docs.ficsit.app/satisfactory-modding/latest/)
 - [Satisfactory Modding Discord](https://discord.com/invite/xkVJ73E)
 - [Unreal Engine 5.3 Documentation](https://docs.unrealengine.com/5.3/en-US/)
+
+## Community
+
+- Website: [evilgeniusgames.ca](https://evilgeniusgames.ca)
+- GitHub: [The Wilds Project](https://github.com/EvilGeniusGames/TheWilds)
+- BlueSky: [@evilgeniustech.bsky.social](https://bsky.app/profile/evilgeniustech.bsky.social)
+- Discord Discussion: [Join Here](https://discord.com/channels/555424930502541343/1394079554641072310)
+
+---
+Created by EvilGeniusGames.ca — Engineering experiences I want to live in - through games and electronics.
